@@ -1,0 +1,151 @@
+============================================================
+COMPUTER TROUBLESHOOTING EXPERT SYSTEM
+SAMPLE INPUT / OUTPUT
+============================================================
+
+
+TEST CASE 1: POWER PROBLEM
+------------------------------------------------------------
+
+Input:
+
+Is computer_off? (yes/no): yes.
+Is power_cable_connected? (yes/no): yes.
+
+Other symptoms:
+no.
+
+Output:
+
+==========================================
+       TROUBLESHOOTING RESULT
+==========================================
+Possible problem:
+- power_problem
+
+
+============================================================
+TEST CASE 2: DISPLAY PROBLEM
+============================================================
+
+Input:
+
+Is computer_on? (yes/no): yes.
+Is blank_screen? (yes/no): yes.
+
+Other symptoms:
+no.
+
+Output:
+
+==========================================
+       TROUBLESHOOTING RESULT
+==========================================
+Possible problem:
+- display_problem
+
+
+============================================================
+TEST CASE 3: SLOW PERFORMANCE
+============================================================
+
+Input:
+
+Is computer_slow? (yes/no): yes.
+Is many_programs? (yes/no): yes.
+
+Other symptoms:
+no.
+
+Output:
+
+==========================================
+       TROUBLESHOOTING RESULT
+==========================================
+Possible problem:
+- slow_performance
+
+
+============================================================
+TEST CASE 4: OVERHEATING
+============================================================
+
+Input:
+
+Is computer_hot? (yes/no): yes.
+Is fan_problem? (yes/no): yes.
+
+Other symptoms:
+no.
+
+Output:
+
+==========================================
+       TROUBLESHOOTING RESULT
+==========================================
+Possible problem:
+- overheating
+
+
+============================================================
+TEST CASE 5: INTERNET PROBLEM
+============================================================
+
+Input:
+
+Is wifi_connected? (yes/no): yes.
+Is no_internet? (yes/no): yes.
+
+Other symptoms:
+no.
+
+Output:
+
+==========================================
+       TROUBLESHOOTING RESULT
+==========================================
+Possible problem:
+- internet_problem
+
+
+============================================================
+TEST CASE 6: RESTART PROBLEM
+============================================================
+
+Input:
+
+Is auto_restart? (yes/no): yes.
+Is computer_hot? (yes/no): yes.
+
+Other symptoms:
+no.
+
+Output:
+
+==========================================
+       TROUBLESHOOTING RESULT
+==========================================
+Possible problem:
+- restart_problem
+
+
+============================================================
+TEST CASE 7: NO MATCHING PROBLEM
+============================================================
+
+Input:
+
+The entered conditions do not satisfy any
+predefined troubleshooting rule.
+
+Output:
+
+==========================================
+       TROUBLESHOOTING RESULT
+==========================================
+No matching problem found.
+
+
+============================================================
+END OF SAMPLE INPUT / OUTPUT
+============================================================
